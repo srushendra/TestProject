@@ -1,2 +1,1 @@
-# TestProject
-Day2 Project files
+# Project
